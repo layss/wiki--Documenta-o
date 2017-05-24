@@ -34,7 +34,7 @@
 * [4 ARQUITETURA](4-arquitetura.md)
   * [Introdução](4-arquitetura/introducao.md)
   * [Finalidade](4-arquitetura/finalidade.md)
-  * Escopo
+  * [Escopo](4-arquitetura/escopo.md)
   * Visão Geral
   * Representação Arquitetural
   * Metas e Restrições da Arquitetura
