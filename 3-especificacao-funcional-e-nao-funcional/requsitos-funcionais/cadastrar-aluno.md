@@ -5,11 +5,11 @@
 | **Ator \(es\)** | Adminidtrador |  |  |
 | **Requisitos associados** | Não há |  |  |
 
-Descrição: Este caso de uso deve permitir inclusão dos alunos
+**Descrição: **Este caso de uso deve permitir inclusão dos alunos
 
-Pré-condições: Não há.
+**Pré-condições:** Não há.
 
-Pós-condições: Os alunos terão acesso às aulas.
+**Pós-condições: **Os alunos terão acesso às aulas.
 
 #### Fluxo principal
 
