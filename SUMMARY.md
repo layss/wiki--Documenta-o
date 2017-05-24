@@ -24,7 +24,7 @@
   * [2.9 Plano de Testes](2-especificacao-funcional-e-nao-funcional/29-plano-de-testes.md)
   * [2.10 Plano de Aceitação](2-especificacao-funcional-e-nao-funcional/210-plano-de-aceitacao.md)
   * [2.11 Plano de Implantação](2-especificacao-funcional-e-nao-funcional/plano-de-implantacao.md)
-  * 2.12 Plano de Equipe
+  * [2.12 Plano de Equipe](2-especificacao-funcional-e-nao-funcional/212-plano-de-equipe.md)
   * 2.13 Cronograma Geral
   * [2.14 Objetivos Deste Documento](2-especificacao-funcional-e-nao-funcional/objetivos-deste-documento.md)
   * [2.15 Questões Em Aberto](2-especificacao-funcional-e-nao-funcional/questoes-em-aberto.md)
