@@ -7,4 +7,5 @@
 * [4.Escopo da Solução](escopo-da-solucao.md)
   * [Principais entregas](escopo-da-solucao/principais-entregas.md)
 * [5.Limites da solução](limites-da-solucao.md)
+* [6 Premissas e restrições](6-premissas-e-restricoes.md)
 
