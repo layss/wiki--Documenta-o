@@ -1,4 +1,4 @@
-* [ ] # 5. Limites da solução
+# 5. Limites da solução
 
 ##### Em uma primeira instância serão implantadas as funcionalidades relacionadas a as seguintes necessidades:
 
