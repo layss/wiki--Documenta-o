@@ -24,6 +24,8 @@ O sistema destina-se a dispositivos móveis, cujo sistema operacional seja andro
 | 10. Funcionalidade para edição de disciplinas pela administração | Essencial |
 | 11. Funcionalidade para remoção de disciplinas pela administração | Essencial |
 
+
+
 1. **Área da administração para cadastro de professores:** A meta desta atividade é incluir informações dos professores no sistema, tais como: nome, tipo de disciplina, telefone, e-mail.
 2. ** Funcionalidade para edição de dados dos professores pela administração:** O propósito desta atividade é a visualização das informações dos professores no sistema para as devidas alterações, se necessárias.
 3. ** Funcionalidade para remoção de dados dos professores pela administração: **O propósito desta atividade é a remoção das informações dos professores no sistema.
