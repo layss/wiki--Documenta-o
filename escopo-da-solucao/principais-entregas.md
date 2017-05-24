@@ -2,14 +2,19 @@
 
 ##### A lista de artefatos a serem entregues no contexto do projeto:
 
-Engenharia de Requisitos
+1. Engenharia de Requisitos
 
-* Documento de Visão e Escopo
-* Documento de Plano de projeto
-* Documento de Especificação Funcional e Não Funcional
-* Documento de Padrão Arquitetural
-* Documento de Banco de dados
-* Plano de Testes
+Documento de Visão e Escopo
+
+Documento de Plano de projeto
+
+Documento de Especificação Funcional e Não Funcional
+
+Documento de Padrão Arquitetural
+
+Documento de Banco de dados
+
+Plano de Teste
 
 
 
