@@ -6,7 +6,7 @@ Esta seção descreve os requisitos não-funcionais associados à integridade, p
 
 Caso o aplicativo fique com mais de 10 minutos sem que haja nenhuma ação do usuário, o sistema automaticamente irá dar um timeout, dar log-out e ir para a tela de inicial do sistema. Este procedimento evita uma operação maliciosa ou acidental.
 
-| **Prioridade:** | Essencial \(X\) | Importante | Desejável |
+| **Prioridade:** | Essencial\(X\) | Importante | Desejável |
 | :--- | :--- | :--- | :--- |
 | **Requisitos Funcionais associados:** |  |  |  |
 
