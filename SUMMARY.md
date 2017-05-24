@@ -14,4 +14,7 @@
 * [1.8 Cronograma inicial](8-cronograma-inicial.md)
 * [2 PLANO DE PROJETO](2-especificacao-funcional-e-nao-funcional.md)
 * 3 ESPECIFICAÇÃO FUNCIONAL E NÃO FUNCIONAL  
+* 4 ARQUITETURA
+* 5 BANCO DE DADOS
+* 6 TESTE
 
