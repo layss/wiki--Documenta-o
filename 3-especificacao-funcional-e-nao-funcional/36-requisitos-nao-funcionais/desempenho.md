@@ -6,7 +6,7 @@ Esta seção descreve os requisitos não funcionais associados à eficiência, u
 
 O Aplicativo Mobile deve propiciar um atendimento rápido através de uma interface de fácil entendimento e que ofereça um eficiente tempo de resposta. Cada Usuário, em situações normais, deve conseguir enviar e receber dados em média de 2 segundos.
 
-| **Prioridade:** | Essencial | Importante | Desejável |
+| **Prioridade:** | Essencial \(X\) | Importante | Desejável |
 | :--- | :--- | :--- | :--- |
 | **Requisitos Funcionais associados:** |  |  |  |
 
