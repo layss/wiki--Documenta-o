@@ -1,4 +1,4 @@
-## 4.6 Visão de Casos de Uso
+## 4.7 Visão de Casos de Uso
 
 Esta seção lista as especificações centrais e significantes para a arquitetura do sistema.
 
