@@ -1,3 +1,13 @@
-# First Chapter
+  
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+
+---
+
+# 	                                  Visão e Escopo
+
+---
+
+#####                                                                                                             Versão &lt;1.4&gt;
+
+
+
