@@ -27,11 +27,8 @@
 #### \[FA001\] – Professor já cadastrado
 
 1. No passo \(4\) do fluxo principal caso já exista o professor cadastrado
-
 2. O sistema deverá retornar a seguinte mensagem: “PROFESSOR JÁ CADASTRADO”.
-
 3. O sistema retorna para o passo \(3\) do fluxo principal
-
 4. O caso de uso se encerra
 
 #### Fluxos de erro
@@ -42,10 +39,8 @@
 
 Um ou mais campos do formulário apresentam um dos seguintes problemas:
 
-* Campo obrigatório não preenchido;
-* Campo com formato inválido;
-
-
+1. Campo obrigatório não preenchido;
+2. Campo com formato inválido;
 
 
 
