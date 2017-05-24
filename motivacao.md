@@ -1,3 +1,5 @@
+## Motivação
+
 As circunstâncias encontradas no ambiente da instituição, diretamente o negócio do cliente e o impacto da nova solução serão os pontos primordiais.
 
 A função do projeto é criar um mecanismo para que a instituição de ensino, cliente, possa melhor instruir os estudantes dos Cursos de graduação em Enfermagem e em Radiologia, referente às respectivas grades curriculares. A mencionada ferramenta será instalada e operacionalizada pelos alunos da Rede de Ensino JK, Universidade JK, Unidade da Asa Sul.
@@ -13,4 +15,8 @@ O WIKI JK propiciará aos professores, na condição de ferramenta tecnológica,
 Visão da Solução
 
 O WIKI JK tem como percepção a reunião de várias disciplinas correlacionadas no âmbito da saúde em um mesmo universo didático e, aos mesmo tempo, uma avaliação de aprendizado de cada acadêmico.
+
+## 
+
+
 
