@@ -6,8 +6,6 @@
 | **Gerente do Projeto** | **Ramal/E-mail do Gestor do Projeto **Rafael.rgsousa@gmail.com |
 |  | Rafael Gaudêncio |
 
-
-
 | Histórico de registro de versão do documento |
 | :---: |
 
