@@ -1,3 +1,7 @@
+# Dicionário de Dados
+
+---
+
 ##### Versão &lt;1.2&gt;
 
 ##### **Histórico de Alterações**
