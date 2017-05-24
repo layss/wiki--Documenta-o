@@ -46,6 +46,7 @@
     * [3.5.8 Adicionar Disciplina](3-especificacao-funcional-e-nao-funcional/requsitos-funcionais/adicionar-disciplina.md)
     * [3.5.9 Editar Disciplina](3-especificacao-funcional-e-nao-funcional/requsitos-funcionais/editar-disciplina.md)
     * [3.5.10 Remover disciplina](3-especificacao-funcional-e-nao-funcional/requsitos-funcionais/remover-disciplina.md)
+  * 3.6 Requisitos não Funcionais
 * [4 ARQUITETURA](4-arquitetura.md)
   * [4.1 Introdução](4-arquitetura/introducao.md)
   * [4.2 Finalidade](4-arquitetura/finalidade.md)
