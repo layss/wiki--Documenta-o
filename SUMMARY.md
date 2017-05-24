@@ -13,3 +13,5 @@
   * [7.3 Modelo de Equipe](7-papeis-e-responsabilidades/73-modelo-de-equipe.md)
 * [8.Cronograma inicial](8-cronograma-inicial.md)
 
+
+
