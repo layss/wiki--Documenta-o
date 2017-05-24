@@ -12,9 +12,9 @@ Sistema de atendimento deve ser autoexplicativo e de fácil aprendizagem para us
 
 | **Prioridade:** | Essencial \(X\) | Importante | Desejável |
 | :--- | :--- | :--- | :--- |
-|  | **Requisitos Funcionais associados:** | Não há |  |
+| **Requisitos Funcionais associados:** | Não há |  |  |
 
-###  
+### 
 
 
 
