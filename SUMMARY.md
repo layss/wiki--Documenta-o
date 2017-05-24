@@ -32,6 +32,7 @@
   * Termo de Encerramento
 * [3 ESPECIFICAÇÃO FUNCIONAL E NÃO FUNCIONAL  ](3-especificacao-funcional-e-nao-funcional.md)
 * [4 ARQUITETURA](4-arquitetura.md)
+  * Introdução
   * Finalidade
   * Escopo
   * Visão Geral
@@ -40,7 +41,7 @@
   * Visão de Casos de Uso
   * Realizações de Casos de Usos
   * Visão Lógica
-  * Visão da Implementação
+  * Introdução
 * 5 BANCO DE DADOS
 * [6 TESTE](6-teste.md)
 
