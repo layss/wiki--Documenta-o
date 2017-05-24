@@ -1,4 +1,4 @@
-* [ ] # 7. Papéis e responsabilidades
+# 7. Papéis e responsabilidades
 
 * [ ] ## 7.1 Conhecimento e habilidades necessários
 

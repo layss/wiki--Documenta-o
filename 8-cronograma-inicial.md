@@ -1,4 +1,4 @@
-* [ ] # 8. Cronograma inicial
+# 8. Cronograma inicial
 
 O cronograma inicial para o projeto, abaixo, destaca quais serão os principais marcos do projeto, o que conterão e quando eles ocorrerão.
 
