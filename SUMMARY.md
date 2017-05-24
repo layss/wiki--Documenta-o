@@ -51,6 +51,7 @@
     * [3.6.2 Confiabilidade](3-especificacao-funcional-e-nao-funcional/36-requisitos-nao-funcionais/confiabilidade.md)
     * [3.6.3 Desempenho](3-especificacao-funcional-e-nao-funcional/36-requisitos-nao-funcionais/desempenho.md)
     * [3.6.4 Segurança](3-especificacao-funcional-e-nao-funcional/36-requisitos-nao-funcionais/seguranca.md)
+  * [3.6.7 Diagramas do Sistema](3-especificacao-funcional-e-nao-funcional/367-diagramas-do-sistema.md)
 * [4 ARQUITETURA](4-arquitetura.md)
   * [4.1 Introdução](4-arquitetura/introducao.md)
   * [4.2 Finalidade](4-arquitetura/finalidade.md)
