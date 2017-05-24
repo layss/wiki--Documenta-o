@@ -28,20 +28,7 @@ A definição das atividades essenciais está inclusa na perspectiva do escopo d
 10. ** Funcionalidade para edição de disciplinas pela administração: **O propósito desta atividade é a visualização das informações das disciplinas no sistema para as devidas alterações, se necessárias.
 11. ** Funcionalidade para remoção de disciplinas pela administração:** O propósito desta atividade é a remoção das informações das disciplinas no sistema.
 
-### Principais entregas
-
-##### A lista de artefatos a serem entregues no contexto do projeto:
-
-Engenharia de Requisitos
-
-* Documento de Visão e Escopo
-* Documento de Plano de projeto
-* Documento de Especificação Funcional e Não Funcional
-* Documento de Padrão Arquitetural
-* Documento de Banco de dados
-* Plano de Testes
-
-
+### 
 
 
 
