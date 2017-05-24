@@ -1,6 +1,4 @@
-
-
-## 2.6 Controle de Mudanças
+### 2.6 Controle de Mudanças
 
 * A mudança deve ser solicitada através de e-mail identificando o solicitante e o que necessita ser mudado. A metodologia XP possui o modelo a ser utilizado, o qual poderá ser feito em um documento Word a ser anexado no e-mail ou então editado diretamente no e-mail.
 
