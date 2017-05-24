@@ -1,6 +1,6 @@
 # 3. ESPECIFICAÇÃO FUNCIONAL E NÃO FUNCIONAL
 
-# 3.1 Introdução
+## 3.1 Introdução
 
 O principal propósito da especificação de requisitos está diretamente relacionado à obtenção do detalhamento do programa \(finalidade, escopo, definições, acrônimos, abreviações, referências etc.\), com o intuito de entregar o produto com a melhor qualidade, confiabilidade e que satisfaçam às reais necessidades do cliente dentro de prazo e orçamento adequados.
 
@@ -56,9 +56,9 @@ Ao final do processo teremos documento de requisitos bem definido e entendido po
 
 Para estabelecer a prioridade dos requisitos, na seção 5, foi adotada as denominações “essencial”, “importante” e “desejável”.
 
-*  Essencial é o requisito sem o qual o sistema não entra em funcionamento. Requisitos essenciais são requisitos imprescindíveis, que têm que ser implementados impreterivelmente.
-*  Importante é o requisito sem o qual o sistema entra em funcionamento, mas de forma não satisfatória. Requisitos importantes devem ser implementados, mas, se não forem, o sistema poderá ser implantado e usado mesmo assim.
-*  Desejável é o requisito que não compromete as funcionalidades básicas do sistema, isto é, o sistema pode funcionar de forma satisfatória sem ele. Requisitos desejáveis podem ser deixados para versões posteriores da solução, caso não haja tempo hábil para programar-los na versão que está sendo especificada.
+* Essencial é o requisito sem o qual o sistema não entra em funcionamento. Requisitos essenciais são requisitos imprescindíveis, que têm que ser implementados impreterivelmente.
+* Importante é o requisito sem o qual o sistema entra em funcionamento, mas de forma não satisfatória. Requisitos importantes devem ser implementados, mas, se não forem, o sistema poderá ser implantado e usado mesmo assim.
+* Desejável é o requisito que não compromete as funcionalidades básicas do sistema, isto é, o sistema pode funcionar de forma satisfatória sem ele. Requisitos desejáveis podem ser deixados para versões posteriores da solução, caso não haja tempo hábil para programar-los na versão que está sendo especificada.
 
 
 
