@@ -20,7 +20,9 @@
 5. O caso de uso de encerra.
 6. Fluxos alternativos
 
-\[FA002\] – Editar Professor
+#### Fluxos alternativos
+
+##### \[FA002\] – Editar Professor
 
 1. No passo \([2](#_Fluxo_principal)\) do fluxo principal caso o administrador seleciona a opção “NÃO”
 2. O caso de uso se encerra
