@@ -18,9 +18,7 @@
 | BOLATIVO |  | SMALLINT | 6 |  |
 | observação | Simples | LONTEXT |  | Outras informações importantes do item |
 
-
-
-#####  	 Entidade: **ADMINISTRADOR**
+##### Entidade: **ADMINISTRADOR**
 
 | Atributo | Classe | Domínio | Tamanho | Descrição |
 | :--- | :--- | :--- | :--- | :--- |
@@ -28,6 +26,18 @@
 | Nome | Simples | VACHAR | 255 | Nome de definição do administrador |
 | Senha | Multivalorado | VACHAR | 80 | Identificação de caracteres criptografados |
 | Datacadastro | Simples | DATETIME | 10 | Data do cadastro do administrador |
+
+
+
+#####  Entidade: **AVALIAÇÃO** 	
+
+| Atributo | Classe | Domínio | Tamanho | Descrição |
+| :--- | :--- | :--- | :--- | :--- |
+| IDTBL\_AVALICAO | Determinante | INTEGER | 11 | Número sequencial que identificará o código da avaliação |
+| COD\_ALUNO | Determinante | INTEGER | 11 | Número sequencial que identificará o código do aluno |
+| COD\_ITEM | Determinante | INTEGER | 11 | Número sequencial que identificará o código do item |
+| NOTA | Simples | INTEGER | 11 | Valor numérico para identificar a nota da avaliação |
+| DATACADASTRO | Simples | DATETIME |   | Data do cadastro da avaliação |
 
 
 
