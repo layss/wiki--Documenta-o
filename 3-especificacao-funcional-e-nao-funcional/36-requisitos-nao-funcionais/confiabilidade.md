@@ -6,7 +6,7 @@ Esta seção descreve os requisitos não-funcionais associados à freqüência e
 
 A aplicação deve estar disponível 24 horas por dia, sete dias da semana não podendo haver interrupções. Em caso de falhas ou panes, o sistema deve cancelar todo o trabalho realizado, sugerindo ao cliente tente novamente mais tarde.
 
-| **Prioridade:** | Essencial \(X\) | Importante | Desejável |
+| **Prioridade:** | Essencial\(X\) | Importante | Desejável |
 | :--- | :--- | :--- | :--- |
 | **Requisitos Funcionais associados:** |  |  |  |
 
