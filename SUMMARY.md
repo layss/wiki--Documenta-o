@@ -14,7 +14,7 @@
 * [1.8 Cronograma inicial](8-cronograma-inicial.md)
 * [2 PLANO DE PROJETO](2-especificacao-funcional-e-nao-funcional.md)
   * [2.1 Introdução](2-especificacao-funcional-e-nao-funcional/introducao.md)
-  * 2.2 Plano de Gerência de configuração
+  * [2.2 Plano de Gerência de configuração](2-especificacao-funcional-e-nao-funcional/22-plano-de-gerencia-de-configuracao.md)
   * 2.3 Plano de Ambiente
   * 2.4 Plano de Gerência de Riscos
   * 2.5 Plano de Qualidade
