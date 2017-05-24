@@ -13,10 +13,10 @@ A tabela abaixo identifica os itens que estarão sob a gerência de configuraç�
 | Sistema Operacional | Windows 7 Pro Peck 3 |
 | Controle de Versão | [GIT](http://git-scm.com/) |
 | Ambiente de Desenvolvimento \(IDE\) | Intel XDK |
-| Editor de Diagramas |  [draw.io](http://draw.io/)  |
+| Editor de Diagramas | [draw.io](http://draw.io/) |
 | Comunicação | WhatsApp |
 
-###  2.2.3 Nomenclatura para identificadores
+### 2.2.3 Nomenclatura para identificadores
 
 Modelo: \[Nome da Empresa\]\_\[Nome do Projeto\]\_\[Modelo do Artefato\]\_\[data da ultima atualização do documento \(ddmmaa\)\].doc
 
@@ -52,10 +52,9 @@ A princípio todos participantes do projeto podem realizar as operações \(chec
 
 | **Atividade** | **Responsabilidade** | **Data Término** |
 | :--- | :--- | :--- |
-| Geração do Build 0.0.1 |   | 23/04/2017 |
-| Geração do Build 0.0.2 |   | 27/04/2017 |
-| Geração de Builds a se determinar na Fase de estabilização |   | 23/03/2017 a31/03/2017 |
+| Geração do Build 0.0.1 |  | 23/04/2017 |
+| Geração do Build 0.0.2 |  | 27/04/2017 |
+| Geração de Builds a se determinar na Fase de estabilização |  | 23/03/2017 a31/03/2017 |
 
-  
 
 
