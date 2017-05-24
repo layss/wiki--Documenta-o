@@ -32,8 +32,8 @@
   * Termo de Encerramento
 * [3 ESPECIFICAÇÃO FUNCIONAL E NÃO FUNCIONAL  ](3-especificacao-funcional-e-nao-funcional.md)
 * [4 ARQUITETURA](4-arquitetura.md)
-  * Introdução
-  * Finalidade
+  * [Introdução](4-arquitetura/introducao.md)
+  * [Finalidade](4-arquitetura/finalidade.md)
   * Escopo
   * Visão Geral
   * Representação Arquitetural
