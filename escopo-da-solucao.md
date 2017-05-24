@@ -1,4 +1,4 @@
-## Escopo da Solução
+## 1.4 Escopo da Solução
 
 A definição das atividades essenciais está inclusa na perspectiva do escopo da solução, desta forma, abaixo estão relacionadas funcionalidades e/ou necessidades para o desenvolvimento do aplicativo.
 

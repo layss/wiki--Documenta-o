@@ -1,4 +1,4 @@
-* [ ] ### 7.3 Modelo de Equipe
+### 1.7.3 Modelo de Equipe
 
 | **Nome** | **Papel** | **Contato** |
 | :--- | :--- | :--- |

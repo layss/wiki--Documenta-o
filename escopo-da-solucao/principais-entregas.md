@@ -1,4 +1,4 @@
-* [ ] ### 4.1 Principais entregas
+### 4.1.1  Principais entregas
 
 ##### A lista de artefatos a serem entregues no contexto do projeto:
 

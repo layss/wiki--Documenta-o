@@ -1,4 +1,4 @@
-* [ ] ## 7.1 Conhecimento e habilidades necessários
+* [ ] ## 1.7.1 Conhecimento e habilidades necessários
 
 A efetiva capacidade de prover produtos e serviços às necessidades dos clientes é, antes de mais nada, uma necessidade para se entender os desafios que eles enfrentam para executar suas funções. Esta subseção deve descrever os futuros usuários da aplicação e os principais problemas que limitam sua produtividade. Os usuários são um subconjunto dos tomadores de decisão \(stakeholders\) identificados.
 

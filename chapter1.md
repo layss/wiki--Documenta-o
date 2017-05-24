@@ -1,6 +1,6 @@
 # Visão e Escopo
 
-1. [ ] ## 1.1 Introdução
+## 1.1 Introdução
 
 O objetivo desse documento é descrever a visão inicial do projeto intitulado WIKI APRENDIZADO DE FERRAMENTAS DO POLO ASA SUL JK – WIKI JK. O escopo será definido por meio da descrição dos requisitos dos artefatos esperados como resultado desse trabalho. Esse escopo servirá como base para acompanhamento e avaliação do projeto.
 

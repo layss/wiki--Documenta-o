@@ -15,8 +15,6 @@ A garantia da qualidade se traduzira em ações no cronograma, provenientes da m
 | Plano de Gerência de Configuração | Planejamento | Keila Viera |
 | Plano de Ambiente | Planejamento | Rafael Gaudêncio |
 
-
-
 ### 2.5.1 Métricas de Qualidade
 
 As métricas servem para ajudar na medição da qualidade. A tabela abaixo apresenta as métricas que serão utilizadas no projeto.
@@ -26,16 +24,12 @@ As métricas servem para ajudar na medição da qualidade. A tabela abaixo apres
 | Não-conformidades para documentos | Qualquer número inteiro maior ou igual a zero | Qualquer valor**diferente de zero**indica a necessidade de reajustar o item inspecionado de modo a garantir sua qualidade | Avaliar o produto seguindo os itens obrigatórios dos templates contidos no XP |
 | Não-conformidade para código fonte | Qualquer número inteiro maior ou igual a zero | Qualquer valor**maior ou igual a quatro**indica a necessidade de reajustar o item inspecionado de modo a garantir sua qualidade. | Avaliar o produto seguindo o padrão de codificação contido no XP |
 
-
-
 ### 2.5.2 Organização e Responsabilidades
 
 |  | **Responsabilidade** |
 | :--- | :--- |
 | Karoline Costa | Responsável final pela Qualidade |
 | Rafael Gaudêncio | Inspeções de Código |
-
-
 
 ### 2.5.3 Atividades e Cronograma Macro
 
