@@ -24,7 +24,6 @@
 ##### \[FA005\] – Editar Aluno
 
 1. No passo \(2\) do fluxo principal caso o administrador seleciona a opção “NÃO”
-
 2. O caso de uso se encerra
 
 
