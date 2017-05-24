@@ -1,4 +1,4 @@
-## Motivação
+* [ ] ## Motivação
 
 As circunstâncias encontradas no ambiente da instituição, diretamente o negócio do cliente e o impacto da nova solução serão os pontos primordiais.
 

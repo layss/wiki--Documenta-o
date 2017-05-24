@@ -1,4 +1,4 @@
-## Escopo da Solução
+* [ ] ## Escopo da Solução
 
 A definição das atividades essenciais está inclusa na perspectiva do escopo da solução, desta forma, abaixo estão relacionadas funcionalidades e/ou necessidades para o desenvolvimento do aplicativo.
 
@@ -9,8 +9,6 @@ A definição das atividades essenciais está inclusa na perspectiva do escopo d
 | 3. Funcionalidade para remoção de dados dos professores pela administração | Essencial |
 | 4. Área da administração para cadastro de alunos | Essencial |
 | 5. Funcionalidade para edição de dados dos alunos pela administração | Essencial |
-
-
 
 
 
