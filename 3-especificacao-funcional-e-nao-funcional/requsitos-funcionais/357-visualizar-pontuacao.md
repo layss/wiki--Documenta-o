@@ -1,11 +1,10 @@
-###  3.5.7 **\[RF007\] Visualizar Pontuação**
+### 3.5.7 **\[RF007\] Visualizar Pontuação**
 
-| **Prioridade:** |  Essencial |  Importante |  Desejável |
+| **Prioridade:** | Essencial | Importante | Desejável |
 | :--- | :--- | :--- | :--- |
-| **Ator \(es\)** | Professor |  |  |
+| **Ator \(es\):** | Professor |  |  |
 | **Requisitos associados:** | Não há |  |  |
 
-  
 **Descrição:** Este caso de uso deve permitir que, os professores de cada disciplina cadastrada no sistema tenha um espaço reservado para visualizar a pontuação de seus alunos nos exercícios realizados.
 
 **Pré-condições:** Professor deverá está cadastrado no sistema.
@@ -14,10 +13,9 @@
 
 #### Fluxo principal
 
-1.  O caso de uso inicia quando o professor seleciona a opção Visualizar Pontuação.
-2.  O sistema apresenta os exercícios realizados pelos alunos e suas pontuações
-3.  O caso de uso de encerra.
+1. O caso de uso inicia quando o professor seleciona a opção Visualizar Pontuação.
+2. O sistema apresenta os exercícios realizados pelos alunos e suas pontuações
+3. O caso de uso de encerra.
 
-  
 
 
