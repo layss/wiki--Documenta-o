@@ -39,7 +39,7 @@
   * [Representação Arquitetural](4-arquitetura/representacao-arquitetural.md)
   * [Metas e Restrições da Arquitetura](4-arquitetura/metas-e-restricoes-da-arquitetura.md)
   * [Visão de Casos de Uso](4-arquitetura/visao-de-casos-de-uso.md)
-  * Realizações de Casos de Usos
+  * [Realizações de Casos de Usos](4-arquitetura/realizacoes-de-casos-de-usos.md)
   * Visão Lógica
   * Introdução
 * [5 BANCO DE DADOS](5-banco-de-dados.md)
