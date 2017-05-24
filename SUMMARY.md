@@ -39,7 +39,7 @@
     * [3.5.1 Cadastrar Professor](3-especificacao-funcional-e-nao-funcional/requsitos-funcionais/cadastrar-professor.md)
     * [3.5.2 Editar Professor](3-especificacao-funcional-e-nao-funcional/requsitos-funcionais/editar-professor.md)
     * [3.5.3 Remover Professor](3-especificacao-funcional-e-nao-funcional/requsitos-funcionais/remover-professor.md)
-    * [Cadastrar Aluno](3-especificacao-funcional-e-nao-funcional/requsitos-funcionais/cadastrar-aluno.md)
+    * [3.5.4 Cadastrar Aluno](3-especificacao-funcional-e-nao-funcional/requsitos-funcionais/cadastrar-aluno.md)
 * [4 ARQUITETURA](4-arquitetura.md)
   * [4.1 Introdução](4-arquitetura/introducao.md)
   * [4.2 Finalidade](4-arquitetura/finalidade.md)
