@@ -1,4 +1,4 @@
-### 4.1 Principais entregas
+* [ ] ### 4.1 Principais entregas
 
 ##### A lista de artefatos a serem entregues no contexto do projeto:
 
@@ -15,6 +15,4 @@ Documento de Padrão Arquitetural
 Documento de Banco de dados
 
 Documento de Plano de Testes
-
-
 
