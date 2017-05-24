@@ -1,4 +1,4 @@
-## 7.2 Usuários
+* [ ] ## 7.2 Usuários
 
 | **Nome** | **Cargo** | **Contato** |
 | :--- | :--- | :--- |
