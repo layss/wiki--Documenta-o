@@ -37,7 +37,7 @@
   * [Escopo](4-arquitetura/escopo.md)
   * [Visão Geral](4-arquitetura/visao-geral.md)
   * [Representação Arquitetural](4-arquitetura/representacao-arquitetural.md)
-  * Metas e Restrições da Arquitetura
+  * [Metas e Restrições da Arquitetura](4-arquitetura/metas-e-restricoes-da-arquitetura.md)
   * [Visão de Casos de Uso](4-arquitetura/visao-de-casos-de-uso.md)
   * Realizações de Casos de Usos
   * Visão Lógica
