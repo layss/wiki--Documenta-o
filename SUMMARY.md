@@ -41,6 +41,7 @@
     * [3.5.3 Remover Professor](3-especificacao-funcional-e-nao-funcional/requsitos-funcionais/remover-professor.md)
     * [3.5.4 Cadastrar Aluno](3-especificacao-funcional-e-nao-funcional/requsitos-funcionais/cadastrar-aluno.md)
     * [3.5.5 Editar Aluno](3-especificacao-funcional-e-nao-funcional/requsitos-funcionais/355-editar-aluno.md)
+    * [3.5.6 Remover Aluno](3-especificacao-funcional-e-nao-funcional/requsitos-funcionais/remover-aluno.md)
 * [4 ARQUITETURA](4-arquitetura.md)
   * [4.1 Introdução](4-arquitetura/introducao.md)
   * [4.2 Finalidade](4-arquitetura/finalidade.md)
