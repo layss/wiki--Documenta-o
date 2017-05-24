@@ -1,6 +1,6 @@
 # Visão e Escopo
 
-1. [ ] ## Introdução
+1. [x] ## Introdução
 
 O objetivo desse documento é descrever a visão inicial do projeto intitulado WIKI APRENDIZADO DE FERRAMENTAS DO POLO ASA SUL JK – WIKI JK. O escopo será definido por meio da descrição dos requisitos dos artefatos esperados como resultado desse trabalho. Esse escopo servirá como base para acompanhamento e avaliação do projeto.
 
@@ -8,7 +8,7 @@ O projeto será conduzido pelos estudantes do Curso de graduação de Engenharia
 
 As principais dúvidas e problemas serão identificadas, pois motivaram a realização desse projeto, da mesma forma serão ordenados os requisitos, a equipe e cronograma macro.
 
-* [ ] ## Motivação
+* [x] ## Motivação
 
 As circunstâncias encontradas no ambiente da instituição, diretamente o negócio do cliente e o impacto da nova solução serão os pontos primordiais.
 
@@ -26,7 +26,7 @@ Visão da Solução
 
 O WIKI JK tem como percepção a reunião de várias disciplinas correlacionadas no âmbito da saúde em um mesmo universo didático e, aos mesmo tempo, uma avaliação de aprendizado de cada acadêmico.
 
-* [ ] ## Escopo da Solução
+* [x] ## Escopo da Solução
 
 A definição das atividades essenciais está inclusa na perspectiva do escopo da solução, desta forma, abaixo estão relacionadas funcionalidades e/ou necessidades para o desenvolvimento do aplicativo.
 
@@ -37,6 +37,4 @@ A definição das atividades essenciais está inclusa na perspectiva do escopo d
 | 3. Funcionalidade para remoção de dados dos professores pela administração | Essencial |
 | 4. Área da administração para cadastro de alunos | Essencial |
 | 5. Funcionalidade para edição de dados dos alunos pela administração | Essencial |
-
-
 
