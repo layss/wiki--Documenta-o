@@ -35,6 +35,7 @@
   * [Metodologia](3-especificacao-funcional-e-nao-funcional/metodologia.md)
   * [Subsistemas relacionados](3-especificacao-funcional-e-nao-funcional/subsistemas-relacionados.md)
   * [Atores](3-especificacao-funcional-e-nao-funcional/atores.md)
+  * [Requsitos Funcionais](3-especificacao-funcional-e-nao-funcional/requsitos-funcionais.md)
 * [4 ARQUITETURA](4-arquitetura.md)
   * [4.1 Introdução](4-arquitetura/introducao.md)
   * [4.2 Finalidade](4-arquitetura/finalidade.md)
