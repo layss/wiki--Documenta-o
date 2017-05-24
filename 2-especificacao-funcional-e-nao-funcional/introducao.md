@@ -8,6 +8,8 @@ As demais seções apresentam o planejamento e definições para o gerenciamento
 
 A definição das atividades essenciais está inclusa na perspectiva do escopo da solução, desta forma, abaixo estão relacionadas funcionalidades e/ou necessidades para o desenvolvimento do aplicativo.
 
+O sistema destina-se a dispositivos móveis, cujo sistema operacional seja android. Esse documento deixa especificado o que será implementado, tendo como não escopo todo o mais, que não se encontra aqui estabelecido.
+
 | **Necessidades** | **Prioridade** |
 | :--- | :--- |
 | 1. Área da administração para cadastro de professores | Essencial |
