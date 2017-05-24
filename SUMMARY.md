@@ -8,4 +8,5 @@
   * [Principais entregas](escopo-da-solucao/principais-entregas.md)
 * [5.Limites da solução](limites-da-solucao.md)
 * [6 Premissas e restrições](6-premissas-e-restricoes.md)
+* [7 Papéis e responsabilidades](7-papeis-e-responsabilidades.md)
 
