@@ -10,4 +10,5 @@
 * [6 Premissas e restrições](6-premissas-e-restricoes.md)
 * [7 Papéis e responsabilidades](7-papeis-e-responsabilidades.md)
   * [7.1 Conhecimento e habilidades necessários](7-papeis-e-responsabilidades/71-conhecimento-e-habilidades-necessarios.md)
+  * [7.2 Usuários](7-papeis-e-responsabilidades/72-usuarios.md)
 
