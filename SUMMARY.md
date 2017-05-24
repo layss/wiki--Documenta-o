@@ -13,6 +13,15 @@
   * [1.7.3 Modelo de Equipe](7-papeis-e-responsabilidades/73-modelo-de-equipe.md)
 * [1.8 Cronograma inicial](8-cronograma-inicial.md)
 * [2 PLANO DE PROJETO](2-especificacao-funcional-e-nao-funcional.md)
+  * Introdução
+  * Plano de Gerência de configuração
+  * Plano de Ambiente
+  * Plano de Gerência de Riscos
+  * Plano de Qualidade
+  * Controle de Mudança
+  * Plano de Comunicação
+  * Plano de Implementação
+  * Plano de Testes
 * 3 ESPECIFICAÇÃO FUNCIONAL E NÃO FUNCIONAL  
 * 4 ARQUITETURA
 * 5 BANCO DE DADOS
