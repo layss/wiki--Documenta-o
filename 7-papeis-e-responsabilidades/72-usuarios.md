@@ -2,11 +2,11 @@
 
 | **Nome** | **Cargo** | **Contato** |
 | :--- | :--- | :--- |
-|   | Administração da Faculdade polo W3 sul |   |
-| João Kesley | Professor |   |
-|   | Alunos |   |
+| Glausson | Administração da Faculdade polo W3 sul | 8442-1321 |
+| João Kesley | Professor | 8156-2146 |
+|  | Alunos |  |
 
-##  
+## 
 
 
 
