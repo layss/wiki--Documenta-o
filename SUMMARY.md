@@ -17,7 +17,7 @@
   * [2.2 Plano de Gerência de configuração](2-especificacao-funcional-e-nao-funcional/22-plano-de-gerencia-de-configuracao.md)
   * [2.3 Plano de Ambiente](2-especificacao-funcional-e-nao-funcional/23-plano-de-ambiente.md)
   * [2.4 Plano de Gerência de Riscos](2-especificacao-funcional-e-nao-funcional/24-plano-de-gerencia-de-riscos.md)
-  * 2.5 Plano de Qualidade
+  * [2.5 Plano de Qualidade](2-especificacao-funcional-e-nao-funcional/25-plano-de-qualidade.md)
   * 2.6 Controle de Mudança
   * 2.7 Plano de Comunicação
   * 2.8 Plano de Implementação
