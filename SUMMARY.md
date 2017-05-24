@@ -11,4 +11,5 @@
 * [7 Papéis e responsabilidades](7-papeis-e-responsabilidades.md)
   * [7.1 Conhecimento e habilidades necessários](7-papeis-e-responsabilidades/71-conhecimento-e-habilidades-necessarios.md)
   * [7.2 Usuários](7-papeis-e-responsabilidades/72-usuarios.md)
+  * [7.3 Modelo de Equipe](7-papeis-e-responsabilidades/73-modelo-de-equipe.md)
 
