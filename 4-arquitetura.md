@@ -2,7 +2,7 @@
 
 ---
 
-##### Versão &lt;1.3&gt;
+##### Versão &lt;1.2&gt;
 
 ##### **Histórico de Alterações**
 
