@@ -32,6 +32,7 @@
   * [2.17 Termo de Encerramento](2-especificacao-funcional-e-nao-funcional/217-termo-de-encerramento.md)
 * [3 ESPECIFICAÇÃO FUNCIONAL E NÃO FUNCIONAL  ](3-especificacao-funcional-e-nao-funcional.md)
   * [Introdução](3-especificacao-funcional-e-nao-funcional/introducao.md)
+  * [Metodologia](3-especificacao-funcional-e-nao-funcional/metodologia.md)
 * [4 ARQUITETURA](4-arquitetura.md)
   * [4.1 Introdução](4-arquitetura/introducao.md)
   * [4.2 Finalidade](4-arquitetura/finalidade.md)
