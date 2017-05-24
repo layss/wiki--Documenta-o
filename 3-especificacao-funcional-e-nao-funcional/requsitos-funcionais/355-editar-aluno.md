@@ -2,7 +2,7 @@
 
 | **Prioridade:** | Essencial \(X\) | Importante | Desejável |
 | :--- | :--- | :--- | :--- |
-| **Ator \(es\)** | Adiministrador |  |  |
+| **Ator \(es\):** | Adiministrador |  |  |
 | **Requisitos associados:** | Não há |  |  |
 
 **Descrição:** Este caso de uso deve permitir a edição de dados dos alunos pela administração.
@@ -23,8 +23,8 @@
 
 ##### \[FA005\] – Editar Aluno
 
-1. No passo \(2\) do fluxo principal caso o administrador seleciona a opção “NÃO”
-2. O caso de uso se encerra
+* No passo \(2\) do fluxo principal caso o administrador seleciona a opção “NÃO”
+* O caso de uso se encerra
 
 
 

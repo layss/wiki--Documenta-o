@@ -24,8 +24,10 @@
 
 ##### \[FA002\] – Editar Professor
 
-1. No passo \([2](#_Fluxo_principal)\) do fluxo principal caso o administrador seleciona a opção “NÃO”
-2. O caso de uso se encerra
+* No passo \([2](#_Fluxo_principal)\) do fluxo principal caso o administrador seleciona a opção “NÃO”
+* O caso de uso se encerra
+
+
 
 
 

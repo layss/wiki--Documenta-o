@@ -2,7 +2,7 @@
 
 | Prioridade: | Essencial \(X\) | Importante | Desejável |
 | :--- | :--- | :--- | :--- |
-| **Ator \(es\)** | Adminidtrador |  |  |
+| **Ator \(es\):** | Adminidtrador |  |  |
 | **Requisitos associados** | Não há |  |  |
 
 **Descrição: **Este caso de uso deve permitir inclusão dos alunos
@@ -38,8 +38,8 @@ Pré-condições
 
 Um ou mais campos do formulário apresentam um dos seguintes problemas:
 
-1. Campo obrigatório não preenchido;
-2. Campo com formato inválido;
+* Campo obrigatório não preenchido;
+* Campo com formato inválido;
 
 
 

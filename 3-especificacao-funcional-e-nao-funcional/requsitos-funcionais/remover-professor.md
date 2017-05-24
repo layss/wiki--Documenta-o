@@ -1,6 +1,6 @@
 ### 3.5.3 \[RF003\] Remover Professor
 
-| **Prioridade:** |  Essencial \(X\) |  Importante |  Desejável |
+| **Prioridade:** | Essencial \(X\) | Importante | Desejável |
 | :--- | :--- | :--- | :--- |
 | **Ator \(es\):** | Administrador |  |  |
 | **Requisitos associados:** | Não há |  |  |
@@ -13,21 +13,20 @@
 
 #### Fluxo principal
 
-1.   O caso de uso inicia quando o administrador seleciona a opção
-2.  “Remover Professor”.
-3.   O sistema apresenta a mensagem: “TEM CERTEZA QUE DESEJA REMOVER” \[FA003\]
-4.   O administrador seleciona a opção “SIM”.
-5.   O sistema apresenta a mensagem: REMOVIDO COM SUCESSO!
-6.  O caso de uso de encerra.
+1. O caso de uso inicia quando o administrador seleciona a opção
+2. “Remover Professor”.
+3. O sistema apresenta a mensagem: “TEM CERTEZA QUE DESEJA REMOVER” \[FA003\]
+4. O administrador seleciona a opção “SIM”.
+5. O sistema apresenta a mensagem: REMOVIDO COM SUCESSO!
+6. O caso de uso de encerra.
 
-####  Fluxos alternativos
+#### Fluxos alternativos
 
 ##### \[FA004\] – Remover Professor
 
-1.   No passo \([2](#_Fluxo_principal)\) do fluxo principal caso o administrador seleciona a opção “NÃO”
-2.  O caso de uso se encerra
+* No passo \([2](#_Fluxo_principal)\) do fluxo principal caso o administrador seleciona a opção “NÃO”
+* O caso de uso se encerra
 
-  
 
 
 
