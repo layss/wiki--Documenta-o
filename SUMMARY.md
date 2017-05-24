@@ -9,7 +9,6 @@
 * [5.Limites da solução](limites-da-solucao.md)
 * [6 Premissas e restrições](6-premissas-e-restricoes.md)
 * [7 Papéis e responsabilidades](7-papeis-e-responsabilidades.md)
-  * [7.1 Conhecimento e habilidades necessários](7-papeis-e-responsabilidades/71-conhecimento-e-habilidades-necessarios.md)
   * [7.2 Usuários](7-papeis-e-responsabilidades/72-usuarios.md)
   * [7.3 Modelo de Equipe](7-papeis-e-responsabilidades/73-modelo-de-equipe.md)
 * [8 Cronograma inicial](8-cronograma-inicial.md)
