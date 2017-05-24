@@ -29,7 +29,7 @@
   * [2.14 Objetivos Deste Documento](2-especificacao-funcional-e-nao-funcional/objetivos-deste-documento.md)
   * [2.15 Questões Em Aberto](2-especificacao-funcional-e-nao-funcional/questoes-em-aberto.md)
   * [2.16 Termo de Aceite](2-especificacao-funcional-e-nao-funcional/termo-de-aceite.md)
-  * 2.17 Termo de Encerramento
+  * [2.17 Termo de Encerramento](2-especificacao-funcional-e-nao-funcional/217-termo-de-encerramento.md)
 * [3 ESPECIFICAÇÃO FUNCIONAL E NÃO FUNCIONAL  ](3-especificacao-funcional-e-nao-funcional.md)
 * [4 ARQUITETURA](4-arquitetura.md)
   * [4.1 Introdução](4-arquitetura/introducao.md)
