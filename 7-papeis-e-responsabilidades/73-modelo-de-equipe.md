@@ -1,6 +1,4 @@
-
-
-###  7.3 Modelo de Equipe
+### 7.3 Modelo de Equipe
 
 | **Nome** | **Papel** | **Contato** |
 | :--- | :--- | :--- |
@@ -9,11 +7,5 @@
 | Rafael Sousa | Desenvolvedor | rafinha607@gmail.com |
 | Francisco Freitas, Keila Vieira | Analistas de testes | aluno.franciscofreitas@gmail.com[keila.viieira@gmail.com](mailto:keila.viieira@gmail.com) |
 
-  
-  
-
-
-  
-  
 
 
