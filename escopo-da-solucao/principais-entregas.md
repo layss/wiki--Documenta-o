@@ -14,7 +14,5 @@ Documento de Padrão Arquitetural
 
 Documento de Banco de dados
 
-Plano de Teste
-
-
+Documento de Plano de Testes
 
