@@ -20,7 +20,7 @@
   * [2.5 Plano de Qualidade](2-especificacao-funcional-e-nao-funcional/25-plano-de-qualidade.md)
   * [2.6 Controle de Mudança](2-especificacao-funcional-e-nao-funcional/26-controle-de-mudanca.md)
   * [2.7 Plano de Comunicação](2-especificacao-funcional-e-nao-funcional/27-plano-de-comunicacao.md)
-  * 2.8 Plano de Implementação
+  * [2.8 Plano de Implementação](2-especificacao-funcional-e-nao-funcional/28-plano-de-implementacao.md)
   * 2.9 Plano de Testes
   * 2.10 Plano de Aceitação
   * [2.11 Plano de Implantação](2-especificacao-funcional-e-nao-funcional/plano-de-implantacao.md)
