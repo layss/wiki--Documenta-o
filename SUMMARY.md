@@ -13,23 +13,23 @@
   * [1.7.3 Modelo de Equipe](7-papeis-e-responsabilidades/73-modelo-de-equipe.md)
 * [1.8 Cronograma inicial](8-cronograma-inicial.md)
 * [2 PLANO DE PROJETO](2-especificacao-funcional-e-nao-funcional.md)
-  * Introdução
-  * Plano de Gerência de configuração
-  * Plano de Ambiente
-  * Plano de Gerência de Riscos
-  * Plano de Qualidade
-  * Controle de Mudança
-  * Plano de Comunicação
-  * Plano de Implementação
-  * Plano de Testes
-  * Plano de Aceitação
-  * Plano de Implantação
-  * Plano de Equipe
-  * Cronograma Geral
-  * Objetivos Deste Documento
-  * [Questões Em Aberto](2-especificacao-funcional-e-nao-funcional/questoes-em-aberto.md)
-  * Termo de Aceite
-  * Termo de Encerramento
+  * [2.1 Introdução](2-especificacao-funcional-e-nao-funcional/introducao.md)
+  * 2.2 Plano de Gerência de configuração
+  * 2.3 Plano de Ambiente
+  * 2.4 Plano de Gerência de Riscos
+  * 2.5 Plano de Qualidade
+  * 2.6 Controle de Mudança
+  * 2.7 Plano de Comunicação
+  * 2.8 Plano de Implementação
+  * 2.9 Plano de Testes
+  * 2.10 Plano de Aceitação
+  * [2.11 Plano de Implantação](2-especificacao-funcional-e-nao-funcional/plano-de-implantacao.md)
+  * 2.12 Plano de Equipe
+  * 2.13 Cronograma Geral
+  * [2.14 Objetivos Deste Documento](2-especificacao-funcional-e-nao-funcional/objetivos-deste-documento.md)
+  * [2.15 Questões Em Aberto](2-especificacao-funcional-e-nao-funcional/questoes-em-aberto.md)
+  * [2.16 Termo de Aceite](2-especificacao-funcional-e-nao-funcional/termo-de-aceite.md)
+  * 2.17 Termo de Encerramento
 * [3 ESPECIFICAÇÃO FUNCIONAL E NÃO FUNCIONAL  ](3-especificacao-funcional-e-nao-funcional.md)
 * [4 ARQUITETURA](4-arquitetura.md)
   * [4.1 Introdução](4-arquitetura/introducao.md)
