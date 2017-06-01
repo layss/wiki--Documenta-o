@@ -7,7 +7,7 @@
     * [1.3 Visão da Solução](visao-e-escopo/13-visao-da-solucao.md)
     * [1.4 Escopo da Solução](visao-e-escopo/14-escopo-da-solucao.md)
     * [1.5 Limites da solução](visao-e-escopo/15-limites-da-solucao.md)
-* [1.5 Limites da solução](limites-da-solucao.md)
+    * [1.6 Premissas e restrições](visao-e-escopo/16-premissas-e-restricoes.md)
 * [1.6 Premissas e restrições](6-premissas-e-restricoes.md)
 * [1.7 Papéis e responsabilidades](7-papeis-e-responsabilidades.md)
   * [1.7.1 Conhecimento e habilidades necessários](7-papeis-e-responsabilidades/71-conhecimento-e-habilidades-necessarios.md)
