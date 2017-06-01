@@ -9,6 +9,8 @@
     * [1.5 Limites da solução](visao-e-escopo/15-limites-da-solucao.md)
     * [1.6 Premissas e restrições](visao-e-escopo/16-premissas-e-restricoes.md)
     * [1.7 Papéis e responsabilidades](visao-e-escopo/17-papeis-e-responsabilidades.md)
+      * [7.2    Usuários](visao-e-escopo/17-papeis-e-responsabilidades/72-usu-a-rios.md)
+      * [7.3    Modelo de Equipe](visao-e-escopo/17-papeis-e-responsabilidades/73-modelo-de-equipe.md)
     * [1.8 Cronograma inicial](visao-e-escopo/18-cronograma-inicial.md)
 * [2 PLANO DE PROJETO](2-especificacao-funcional-e-nao-funcional.md)
   * [2.1 Introdução](2-especificacao-funcional-e-nao-funcional/introducao.md)
