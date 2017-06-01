@@ -1,4 +1,10 @@
-# 1.7 Papéis e responsabilidades
+1.7 Papéis e responsabilidades
+
+
+
+
+
+Conhecimento e habilidades
 
 
 
