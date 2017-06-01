@@ -10,7 +10,6 @@
     * [1.6 Premissas e restrições](visao-e-escopo/16-premissas-e-restricoes.md)
     * [1.7 Papéis e responsabilidades](visao-e-escopo/17-papeis-e-responsabilidades.md)
     * [1.8 Cronograma inicial](visao-e-escopo/18-cronograma-inicial.md)
-* [1.8 Cronograma inicial](8-cronograma-inicial.md)
 * [2 PLANO DE PROJETO](2-especificacao-funcional-e-nao-funcional.md)
   * [2.1 Introdução](2-especificacao-funcional-e-nao-funcional/introducao.md)
   * [2.2 Plano de Gerência de configuração](2-especificacao-funcional-e-nao-funcional/22-plano-de-gerencia-de-configuracao.md)
