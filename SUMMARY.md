@@ -71,5 +71,5 @@
 * [6.1 Introdução](introducao.md)
 * [6.2 Estágios de Testes](estagios-de-teste.md)
 * [6.3 Tipos de Testes](tipos-de-testes.md)
-* 6.4 Recursos Necessários
+* [6.4 Recursos Necessários](64-recursos-necessarios.md)
 
