@@ -68,4 +68,8 @@
 * [5 BANCO DE DADOS](5-banco-de-dados.md)
   * [Dicionário de Dados](5-banco-de-dados/dicionario-de-dados.md)
 * [6 TESTE](6-teste.md)
+* [Introdução](introducao.md)
+* [Estágios de Testes](estagios-de-teste.md)
+* Tipos de Testes
+* Recursos Necessários
 
