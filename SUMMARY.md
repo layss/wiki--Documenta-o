@@ -3,7 +3,7 @@
 * [WIKI APRENDIZADO DE FERRAMENTAS DO POLO ASA SUL DA JK](README.md)
   * [1 VISÃO E ESCOPO](visao-e-escopo.md)
     * [1.1 Introdução](visao-e-escopo/11-introducao.md)
-* [1.1 Introdução](chapter1.md)
+    * [1.2 Motivação](visao-e-escopo/12-motivacao.md)
 * [1.2 Motivação](motivacao.md)
 * [1.3 Visão da Solução](motivacao/visao-da-solucao.md)
 * [1.4 Escopo da Solução](escopo-da-solucao.md)
