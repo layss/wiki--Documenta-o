@@ -70,7 +70,7 @@
 * [6 TESTE](6-teste.md)
   * [6.1 Introdução](6-teste/61-introducao.md)
   * [6.2 Estágios de Testes](6-teste/62-estagios-de-testes.md)
-* [6.2 Estágios de Testes](estagios-de-teste.md)
+  * [6.3 Tipos de Testes](6-teste/63-tipos-de-testes.md)
 * [6.3 Tipos de Testes](tipos-de-testes.md)
 * [6.4 Recursos Necessários](64-recursos-necessarios.md)
 
