@@ -4,7 +4,7 @@ Este documento define o Plano de Projeto para o projeto WIKI JK, com o objetivo 
 
 As demais seções apresentam o planejamento e definições para o gerenciamento das diversas áreas do projeto: Equipe, Comunicação, Desenvolvimento, Testes, Distribuição, Gerência de Configuração, Ambiente, Riscos, Aceitação, Qualidade, Controle de mudanças, Cronograma.
 
-#### 2.1.2 Requisitos Funcionais  e Não Funcionais Contemplados por meio deste Plano de Projeto:
+### 2.1.2 Requisitos Funcionais  e Não Funcionais Contemplados por meio deste Plano de Projeto:
 
 A definição das atividades essenciais está inclusa na perspectiva do escopo da solução, desta forma, abaixo estão relacionadas funcionalidades e/ou necessidades para o desenvolvimento do aplicativo.
 
@@ -23,8 +23,6 @@ O sistema destina-se a dispositivos móveis, cujo sistema operacional seja andro
 | 9. Área para adicionar disciplinas pela administração | Essencial |
 | 10. Funcionalidade para edição de disciplinas pela administração | Essencial |
 | 11. Funcionalidade para remoção de disciplinas pela administração | Essencial |
-
-
 
 1. **Área da administração para cadastro de professores:** A meta desta atividade é incluir informações dos professores no sistema, tais como: nome, tipo de disciplina, telefone, e-mail.
 2. ** Funcionalidade para edição de dados dos professores pela administração:** O propósito desta atividade é a visualização das informações dos professores no sistema para as devidas alterações, se necessárias.
