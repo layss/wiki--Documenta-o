@@ -12,7 +12,5 @@ A visualização das etapas de análise do aprimoramento intelectual dos discent
 
 O WIKI JK propiciará aos professores, na condição de ferramenta tecnológica, uma acurada investigação do ensino aos seus alunos, no qual medirá o conhecimento individualmente em relação ao modulo ensinado, e abrangendo várias disciplinas em um único sistema.
 
-Visão da Solução
 
-O WIKI JK tem como percepção a reunião de várias disciplinas correlacionadas no âmbito da saúde em um mesmo universo didático e, aos mesmo tempo, uma avaliação de aprendizado de cada acadêmico.
 
